@@ -40,10 +40,6 @@ The minds run on PCs with local AI (Ollama, Whisper, Piper), the robots are ESP3
 | [FLORA](https://github.com/CursedPrograms/FLORA-Robot-v00) | The gardener: an ESP32 that feels the soil, light and UV around a plant and waters it. ([site](https://cursedprograms.github.io/FLORA-Robot-v00/)) |
 | [RITA](https://github.com/CursedPrograms/RITA) | The handheld remote: a 3.5-inch ESP32 touch screen, RIFT in your hand. ([site](https://cursedprograms.github.io/RITA/)) |
 
-## Tools around the fleet
-
-[CRUSH](https://github.com/CursedPrograms/CRUSH) (compression) · [PyVitals](https://github.com/CursedPrograms/PyVitals) (system monitor) · [Scan-WIFI-Devices](https://github.com/CursedPrograms/Scan-WIFI-Devices) (who's on the network) · and everything else in the [cursed directory](https://cursed-entertainment.github.io/cursed-directory/).
-
 ## License
 
 MIT, see [LICENSE](LICENSE).
